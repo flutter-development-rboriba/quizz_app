@@ -1,5 +1,7 @@
 # quizz_app
 
+![Quiz App](./quiz-app-flutter.gif)
+
 A new Flutter project.
 
 ## Getting Started
